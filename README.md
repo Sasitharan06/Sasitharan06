@@ -67,6 +67,17 @@
 
 ---
 
+## 🏆 LeetCode Stats (Live)
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/sasitharan06?theme=dark&font=Baloo&ext=contest" />
+</p>
+
+🔗 **LeetCode Profile**  
+https://leetcode.com/u/sasitharan06/
+
+---
+
 ## 🛠 IDEs & Tools
 
 <p>
@@ -78,9 +89,19 @@
 ## 🤝 Connect With Me
 
 <p>
-<a href="https://github.com/Sasitharan06"><img src="https://img.shields.io/badge/GitHub-black?logo=github"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-orange?logo=google-chrome"></a>
+
+<a href="https://github.com/Sasitharan06">
+<img src="https://img.shields.io/badge/GitHub-black?logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/sasi-tharan-sivakumar-23312a328/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
+</a>
+
+<a href="https://leetcode.com/u/sasitharan06/">
+<img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode">
+</a>
+
 </p>
 
 ---
